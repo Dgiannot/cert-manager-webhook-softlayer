@@ -23,7 +23,7 @@ fullnameOverride: ""
 
 service:
   type: ClusterIP
-  port: 443
+  port: 9443
 
 resources:
   {}
