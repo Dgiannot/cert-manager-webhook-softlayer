@@ -8,6 +8,8 @@
 # here is recommended.
 groupName: acme.groschupp.org
 
+apiVersion: cert-manager.io/v1alpha2
+
 # logLevel: 3
 certManager:
   namespace: cert-manager
